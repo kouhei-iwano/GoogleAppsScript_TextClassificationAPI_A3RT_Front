@@ -1,1 +1,1 @@
-# -GoogleAppsScript_TextClassificationAPI_A3RT_Front
+# GoogleAppsScript_TextClassificationAPI_A3RT_Front
